@@ -1,0 +1,29 @@
+## Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+## Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+packages/
+.nuget/
+
+## OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
