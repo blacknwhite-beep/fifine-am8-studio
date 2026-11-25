@@ -83,7 +83,7 @@ FIFINE's official **Genie** app does not support the AM8 microphone (FIFINE's ow
 Requirements: **Windows 10/11**, **.NET 10 SDK**, a FIFINE AM8 (or any mic you want to route through the virtual device).
 
 ```powershell
-git clone https://github.com/<your-user>/fifine-am8-studio.git
+git clone https://github.com/blacknwhite-beep/fifine-am8-studio.git
 cd fifine-am8-studio
 dotnet build FifineAM8Studio.csproj -c Release
 ```
